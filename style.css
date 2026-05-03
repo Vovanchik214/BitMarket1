@@ -100,7 +100,7 @@ h1:hover {
 .post:hover {
     background-color: rgb(199, 74, 74);
     padding: 15px 45px 30px 45px;
-    width: 500px;
+    width: 400px;
     margin: 20px;
     position: relative;
 }
